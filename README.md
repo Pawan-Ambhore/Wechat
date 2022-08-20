@@ -12,6 +12,7 @@ npm run dev
 
 Go to localhost:3000
 ```
-![Screenshot (399)](https://user-images.githubusercontent.com/72788746/185741817-13626c99-8b4a-4d00-b2f8-93a17348b6e2.png)
-![Screenshot (400)](https://user-images.githubusercontent.com/72788746/185741818-96f49887-b957-4a64-9ad3-b265e66c9019.png)
-![Screenshot (401)](https://user-images.githubusercontent.com/72788746/185741824-15aa256d-c81e-4f9a-acb7-22c071b8ae3e.png)
+
+![Screenshot (399)](https://user-images.githubusercontent.com/72788746/185742068-bdb7f42d-9174-4543-8b6e-f619e48d2fdf.png)
+![Screenshot (400)](https://user-images.githubusercontent.com/72788746/185742071-b0e89f72-1aa7-4078-baca-89b5087ed482.png)
+![Screenshot (401)](https://user-images.githubusercontent.com/72788746/185742073-c4dab450-3f6e-4313-8abe-27a99b7a52c1.png)
